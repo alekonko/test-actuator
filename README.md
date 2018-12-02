@@ -1,1 +1,1 @@
-# CONCO Simple Actuator enabled. only simple api services
+# CONCO Simple Actuator enabled. with mariadb be

@@ -1,4 +1,4 @@
-package testactuator;
+package com.aleconco.test_actuator;
 
 public class Messages {
 
